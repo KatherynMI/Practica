@@ -1,0 +1,3 @@
+Cantidad	Precio
+5	23.0
+En total tienes: 115.0

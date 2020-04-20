@@ -1,0 +1,17 @@
+CMD            Inicia una nueva instancia del intérprete de comandos
+               de Windows
+MKDIR          Crea un directorio.
+
+GPRESULT       Muestra información de directiva de grupo por equipo o usuario.
+
+TASKKILL       Termina o interrumpe un proceso o aplicación que se está ejecutando.}
+
+BCDEDIT        Establece propiedades en la base de datos de arranque para
+               controlar la carga del arranque.
+PING:  es uan herramienta de diagnóstico para el simbolo del sistema de Windows. El programa de lineasde comandos sirrve, en el maarco del diagnostico de red, para establecer si se puede acceder a otro ordenador conectado en una red loccal o red publica. 
+
+TYPE           Muestra el contenido de un archivo de texto.
+
+CLS            Borra la pantalla.
+
+DRIVERQUERY    Muestra el estado y las propiedades actuales del controlador de dispositivo.
